@@ -1,0 +1,6 @@
+.venv/
+data/
+*.pt
+*.npy
+submission*.csv
+__pycache__/
